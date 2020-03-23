@@ -14,7 +14,7 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        imgCircus.image = UIImage(named: "lion")
+        imgCircus.image = UIImage(named: "gorilla")
         tabBarItem.badgeValue = String(100)
     }
 
