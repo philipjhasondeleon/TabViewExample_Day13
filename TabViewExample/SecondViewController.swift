@@ -15,7 +15,7 @@ class SecondViewController: UIViewController {
         super.viewDidLoad()
         
         imgCircus.image = UIImage(named: "gorilla")
-        tabBarItem.badgeValue = String(100)
+        tabBarItem.badgeValue = String(95)
     }
 
 
