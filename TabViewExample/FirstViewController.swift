@@ -16,7 +16,7 @@ class FirstViewController: UIViewController {
         super.viewDidLoad()
         
         imgCircus.image = UIImage(named: "home")
-        tabBarItem.badgeValue = String(100)
+        tabBarItem.badgeValue = String(90)
     }
 
 
