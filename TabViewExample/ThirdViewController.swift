@@ -15,8 +15,9 @@ class ThirdViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        
+        imgCircus.image = UIImage(named: "elephant")
         tabBarItem.badgeValue = String(100)
+        
     }
     
 
